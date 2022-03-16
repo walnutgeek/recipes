@@ -1,0 +1,33 @@
+tags:
+  - Instant Pot
+actions:
+  - name: Saute
+    ingredients:
+      - 2 tsp peanut oil
+      - 5 cloves garlic, chopred
+      - 2 tsp gingger, minced
+      - 1 serrano pepper, minced
+    time: 1m
+    level: high
+  - name: Pressure Cook
+    time: 4m quick pressure release
+    depends: Saute
+    ingredients:
+      - 1 lbs spinach
+      - 1 large yellow onion, choped
+      - 2 medium tomatos
+      - 2 tsp ground cumin
+      - 2 tsp Garam Masala
+      - 1 tsp turmeric
+      - 1 tsp salt
+      - 1/2 cup water
+  - name: Blend
+    depends: Pressure Cook
+  - name: Add Paneer
+    ingredients: 
+      - 1.5 cup of Paneer 1/2 inch cubes
+    
+       
+  
+  
+
