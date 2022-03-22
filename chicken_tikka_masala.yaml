@@ -28,12 +28,12 @@ actions:
       - 1/2 tsp cayene
       - 1 tsp salt
       - 2 tsp Garam Masala
-    time: 10m quick pressure release
+    time: 10m, quick pressure release
     level: high
     note: add marinated chicken on top of sauce ingredients
   - name: Finish
     ingredients:
-      - 1/2 h&h milk
+      - 1/2 cup half-and-half
       - 1 tsp Garam Masala
       - 1/4 cup cilantro, chopped
     note: Combine h&h and GM and add to sauce. Garnish with cilantro and serve
