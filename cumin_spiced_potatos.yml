@@ -1,0 +1,23 @@
+tags:
+  - Instant Pot
+actions:
+  - name: Steam Potatos
+    time: 6m
+    level: high
+    ingredients:
+      - 2 cups water
+      - 2 cups cubed potatoes
+  - name: Saute Geemix
+    ingredients:
+      - 1/2 serrano chile, cut into thick slices
+      - 1/2 tsp cumin seeds
+      - 1 tbsp Gee
+    time: 1m
+  - name: Saute
+    depends: 
+      - Saute Gee mix
+      - Steam Potatos
+    ingredients:
+      - 1/4 tsp ground turmeric (optional)
+      - 1 tsp salt
+      
