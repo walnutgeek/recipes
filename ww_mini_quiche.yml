@@ -12,7 +12,7 @@ actions:
       - 1/4 teaspoon pepper
   - name: Bake
     time: 20m on 350F
-    depends: Saute
+    depends: Mix
     ingredients:
       - 24 wonton wrappers
       - 1 cup grated cheddar cheese
