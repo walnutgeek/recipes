@@ -1,0 +1,29 @@
+name: Crepes 
+src: https://www.savorywithsoul.com/recipe-for-mushroom-risotto/#comments
+actions:
+  - name: Stir and Cook on medium for 5 min
+    ingredients:
+      - 2 Tbsp butter
+      - 2 Tbsp oil
+      - 8 ounces mushrooms , sliced thickly
+      - 1 Tbsp garlic , minced (2-3 large cloves)
+      - 1 tsp dry marjoram
+      - 1/2 tsp salt
+      - 1/4 tsp black pepper
+ - name: Reduce - Cook uncovered for 5 min 
+    ingredients:
+      - 1 lemon large, zest and juice
+ - name: Stir and Cook for 1 min
+    ingredients:
+      - 1.5 cups Arborio rice
+ - name: Stir and Cook on high to almost boiling for about 2 min
+    ingredients:
+      - 3 cups beef stock 
+ - name: Stir and Cook on medium for 10 minutes, make sure rice doesn't 
+         stick to pan bottom.
+ - name: Stir and Cook on low-medium (2-3) for 5 more minutes
+ - name: Remove from heat, add cream and parmesan cheese, and stir. 
+         Cover and let sit 5 minutes. Stir again before serving.
+    ingredients:
+      - 1/2 cup heavy cream
+      - 1/4 cup parmesan cheese     
