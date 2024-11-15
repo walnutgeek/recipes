@@ -1,0 +1,23 @@
+name: Discargs Scones
+src: https://www.theclevercarrot.com/2023/10/easy-no-roll-sourdough-scones-overnight-option/
+actions:
+  - name: Dry ingredients to pulse in food processer
+    ingredients:
+      - 250 g (2 cups) all purpose flour
+      - 10 g (1 tbsp) baking powder
+      - 1/2 tsp. salt
+      - 100 g (1/2 cup) granulated sugar
+      - 170 g (12 tbsp) unsalted butter, cold, cut into cubes
+
+  - name: Wet Ingredients to mix in the bowl
+    ingredients:
+      - 1 large egg
+      - 75 g (about 1/4 cup) sourdough discard
+      - 5g or 1 tsp pure vanilla extract
+      - 60g 1/4 cup heavy cream
+      - Zest of 1 lemon, about 1 tbsp
+  - name: All in the bowl. Mix dough and then fold bberries
+    ingredients: 
+      - 1 cup fresh blueberries
+  - name: Bake at 400F for 20-24min
+
