@@ -1,0 +1,24 @@
+name: Mushroom Risotto 
+src: https://thestayathomechef.com/easy-mushroom-risotto/
+actions:
+  - name: Saute Mushrooms until brownes (3-4 min) then remove them aside
+    ingredients:
+      - 2 pounds white or cremini mushrooms sliced
+      - 1/2 teaspoon salt
+      - 1/2 teaspoon black pepper
+      - 1 tablespoon olive oil
+  - name: In the same pot, saute onions for 1-2 min
+    ingredients:
+      - 2 large shallots
+      - 2 tablespoons olive oil
+  - name: Add rice and toast it for about 3 to 4 minutes until golden
+    ingredients:
+      - 1 1/2 cups arborio rice
+  - name: Add 1 cup of broth and steer continious untils rice absorb luquid repeat adding 1/2 at the time until all broth is used about 30 min 
+    ingredients:
+      - 6 cups chicken broth
+  - name: Steer in the butter, parmesan, mushrooms
+    ingredients:
+      - 4 tablespoons salted butter
+      - 1/3 cup freshly grated Parmesan cheese
+      - mushrooms set aside previosly
