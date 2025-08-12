@@ -1,0 +1,11 @@
+name: Confit de Canard 
+src: https://adamantkitchen.com/confit-de-canard/
+actions:
+  - name: Pair ducks into 8 pieces and store it in salt and aromatics for 18-24 hours
+    ingredients:
+      - 2 ducks
+      - 2% of salt by weight (of separated pieces)
+      - By taste black pepper, few cloves of garlic, chalot, bay leaf
+  - name: cut skin and fun into 1/4" pieces and render fat
+  - name: next day: cover pieces in rendered fat and cook for 5h at 180F
+  - name: brown few pices in the pan or oven befor serving 
