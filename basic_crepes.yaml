@@ -1,6 +1,6 @@
-name: Crepes 
+name: Crepes
 actions:
-  - name: Butter
+  - name: Batter
     ingredients:
       - 1 cup all-purpose flour
       - 2 eggs
@@ -8,5 +8,4 @@ actions:
       - 1/2 cup water
       - 1/4 tsp salt
       - 2 tbsp butter, melted
- - name: Cook
-    
+  - name: Cook

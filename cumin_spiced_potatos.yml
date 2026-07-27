@@ -1,23 +1,19 @@
+name: Cumin Spiced Potatoes
 tags:
   - Instant Pot
 actions:
-  - name: Steam Potatos
-    time: 6m
-    level: high
+  - name: Steam Potatoes
+    time: 6m on high
     ingredients:
       - 2 cups water
       - 2 cups cubed potatoes
-  - name: Saute Geemix
+  - name: Saute Ghee Mix
     ingredients:
       - 1/2 serrano chile, cut into thick slices
       - 1/2 tsp cumin seeds
-      - 1 tbsp Gee
+      - 1 tbsp ghee
     time: 1m
   - name: Saute
-    depends: 
-      - Saute Gee mix
-      - Steam Potatos
     ingredients:
       - 1/4 tsp ground turmeric (optional)
       - 1 tsp salt
-      

@@ -1,43 +1,39 @@
+name: Chicken Tikka Masala
 tags:
   - Instant Pot
 actions:
   - name: Marinade
     ingredients:
       - 1/2 cup greek yogurt
-      - 4 cloves garlic, chopred
+      - 4 cloves garlic, chopped
       - 2 tsp ginger, minced
-      - 1/2 tsp ground turmeric 
+      - 1/2 tsp ground turmeric
       - 1/2 tsp ground cumin
       - 1/2 tsp smoked paprika
-      - 1/4 tsp cayene
+      - 1/4 tsp cayenne
       - 1 tsp salt
-      - 1 tsp Garam Masala
-      - 1.5 lbs chicken, in lagre pieces
+      - 1 tsp garam masala
+      - 1.5 lbs chicken, in large pieces
     time: 1-2h
-  - name: Pressure Cook 
+  - name: Pressure Cook
     ingredients:
       - 1 onion, chopped
       - 5 cloves garlic, chopped
-      - 14 onces (1 can) diced tomatos
+      - 14 oz (1 can) diced tomatoes
       - 1 carrot, chopped
-      - 4 cloves garlic, chopred
+      - 4 cloves garlic, chopped
       - 2 tsp ginger, minced
-      - 1 tsp ground turmeric 
+      - 1 tsp ground turmeric
       - 1 tsp ground cumin
       - 1 tsp smoked paprika
-      - 1/2 tsp cayene
+      - 1/2 tsp cayenne
       - 1 tsp salt
-      - 2 tsp Garam Masala
-    time: 10m, quick pressure release
-    level: high
+      - 2 tsp garam masala
+    time: 10m high pressure, quick release
     note: add marinated chicken on top of sauce ingredients
   - name: Finish
     ingredients:
       - 1/2 cup half-and-half
-      - 1 tsp Garam Masala
+      - 1 tsp garam masala
       - 1/4 cup cilantro, chopped
-    note: Combine h&h and GM and add to sauce. Garnish with cilantro and serve
-    
-       
-  
-  
+    note: Combine h&h and garam masala and add to sauce. Garnish with cilantro and serve.

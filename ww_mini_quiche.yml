@@ -1,22 +1,20 @@
-citations:
-  - https://laughingspatula.com/mini-quiche-in-wonton-wrappers/
 name: Mini Quiche In Wonton Wrappers
+src:
+  - url: https://laughingspatula.com/mini-quiche-in-wonton-wrappers/
 actions:
-  - name: Mix 
+  - name: Mix
     ingredients:
       - 1/2 cup heavy cream (or H&H)
-      - 1 tablespoon dijon mustard
+      - 1 tbsp dijon mustard
       - 4 eggs
-      - 2 teaspoons hot sauce such as Tabassco (optional)
-      - 1/2 teaspoon salt
-      - 1/4 teaspoon pepper
+      - 2 tsp hot sauce such as Tabasco (optional)
+      - 1/2 tsp salt
+      - 1/4 tsp pepper
   - name: Bake
-    time: 20m on 350F
-    depends: Mix
+    time: 20m at 350F
     ingredients:
       - 24 wonton wrappers
       - 1 cup grated cheddar cheese
-      - 1/2 cup ham, finley chopped
-      - 1/2 cup fresh spinach, finley chopped
+      - 1/2 cup ham, finely chopped
+      - 1/2 cup fresh spinach, finely chopped
       - 1/4 cup green onion, chopped
-

@@ -1,33 +1,26 @@
+name: Palak Paneer
 tags:
   - Instant Pot
 actions:
   - name: Saute
     ingredients:
       - 2 tsp peanut oil
-      - 5 cloves garlic, chopred
-      - 2 tsp gingger, minced
+      - 5 cloves garlic, chopped
+      - 2 tsp ginger, minced
       - 1 serrano pepper, minced
-    time: 1m
-    level: high
+    time: 1m on high
   - name: Pressure Cook
-    time: 4m quick pressure release
-    depends: Saute
+    time: 4m, quick pressure release
     ingredients:
-      - 1 lbs spinach
-      - 1 large yellow onion, choped
-      - 2 medium tomatos
+      - 1 lb spinach
+      - 1 large yellow onion, chopped
+      - 2 medium tomatoes
       - 2 tsp ground cumin
-      - 2 tsp Garam Masala
+      - 2 tsp garam masala
       - 1 tsp turmeric
       - 1 tsp salt
       - 1/2 cup water
   - name: Blend
-    depends: Pressure Cook
   - name: Add Paneer
-    ingredients: 
-      - 1.5 cup of Paneer 1/2 inch cubes
-    
-       
-  
-  
-
+    ingredients:
+      - 1.5 cup paneer, 1/2 inch cubes
