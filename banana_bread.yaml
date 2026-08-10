@@ -1,0 +1,46 @@
+name: Sourdough Banana Bread
+src:
+  - name: The Clever Carrot
+    url: https://www.theclevercarrot.com/2020/04/ultimate-sourdough-banana-bread/
+tags:
+  - Bread
+  - Baking
+
+actions:
+  - name: Prep
+    note: Preheat the oven to 360°F. Lightly coat three 7x3x2 mini loaf pans or one 9x5-inch loaf pan with butter.
+
+  - name: Cream
+    ingredients:
+      - 375g banana
+      - 75g brown sugar
+      - 7g (1½ tsp) pure vanilla extract
+    time: 1m
+    note: Cream banana, sugar, and vanilla with a hand mixer or stand mixer fitted with the paddle attachment, about 30 seconds to 1 minute. Some small lumps of banana are okay.
+
+  - name: Add wet ingredients
+    ingredients:
+      - 90g (2 large) eggs
+      - 100g (1/2 cup) bubbly, active sourdough starter or discard, optional
+    note: Add the eggs one at a time until fully incorporated, then add the sourdough starter. Vegan option — 90g aquafaba in place of the eggs.
+
+  - name: Sift
+    ingredients:
+      - 250g (2 cups) all-purpose flour
+      - 7g (1½ tsp) baking soda
+      - 2g (1/4 tsp) fine sea salt
+    note: Sift together in a separate bowl. Working in batches, add to the banana mixture.
+
+  - name: Combine
+    ingredients:
+      - 60ml (1/4 cup) milk
+      - 125ml (1/2 cup) neutral flavored oil
+    note: Mix until just combined — do not overmix, or the bread will be tough. Vegan option — 60ml (1/4 cup) almond milk in place of the dairy milk.
+
+  - name: Bake
+    time: 45m for mini loaf pans, 60-65m for a standard 9x5-inch pan
+    note: Pour batter into the prepared pan(s); if using mini loaf pans, set them on a baking sheet. Bake until rich golden brown and a toothpick comes out clean. Cover with foil if the loaf browns too quickly.
+
+  - name: Cool and serve
+    time: 20m
+    note: Cool in the pan for 20 minutes, then transfer to a wire rack to cool completely. Serve with powdered sugar for a nice touch.
