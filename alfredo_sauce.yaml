@@ -1,0 +1,20 @@
+name: Alfredo Sauce
+description: Garlic, butter, cream and Parmesan pan sauce
+src:
+  - name: My own experimentation
+tags:
+  - Sauce
+actions:
+  - name: Caramelize garlic
+    ingredients:
+      - 5 cloves garlic, finely diced
+      - 60g (4 tbsp) butter
+    note: Cook garlic in the butter until it softens and starts to caramelize
+  - name: Add cream
+    ingredients:
+      - 180g (3/4 cup) whipping cream
+    note: Add slowly while stirring constantly
+  - name: Finish with cheese
+    ingredients:
+      - 30g Parmesan, grated
+    note: Stir in off the heat at the end until melted
