@@ -1,0 +1,33 @@
+name: Quick Pizza Dough
+description: Pizza dough built on a fast yeast-and-starter sponge
+src:
+  - name: My own experimentation
+tags:
+  - Bread
+  - Pizza
+  - Stand Mixer
+actions:
+  - name: Starter sponge
+    ingredients:
+      - 7g active dry yeast
+      - 1 tsp rye sourdough starter
+      - 1 tsp wheat sourdough starter
+      - 30g water
+      - 10g molasses
+      - 30g white flour
+    time: 1h, or 30m in a warmed oven
+    note: >-
+      Any yeast works. More yeast speeds things up — if you have no sourdough
+      starter, add a little extra dry yeast. To speed it up further, turn the
+      oven on for 15 seconds, turn it off, and proof the sponge inside.
+  - name: Mix dough
+    ingredients:
+      - 320g all purpose flour
+      - 170g (170ml) water
+      - 30g olive oil
+      - 3g salt
+      - the starter sponge from above
+    note: Mix in a stand mixer
+  - name: Proof
+    time: 1h, or 30m in a warmed oven
+    note: Same warmed-oven trick works here
