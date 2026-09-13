@@ -1,0 +1,46 @@
+name: Cranberry Walnut Rye
+description: Dense sourdough rye loaf with walnuts and frozen cranberries, baked in a loaf pan
+src:
+  - name: Inspired by the Cranberry Walnut bread from Costco. It end up completely different: texture, taste, not as sweet but still good
+tags:
+  - Bread
+  - Sourdough
+  - Rye
+actions:
+  - name: Sponge
+    ingredients:
+      - 80g rye flour
+      - 40g all purpose flour
+      - 120g water
+      - 20g rye sourdough starter
+      - 10g wheat sourdough starter
+    time: mix before noon, rest until night
+    note: Mix and leave at room temperature for most of the day
+
+  - name: Mix dry
+    ingredients:
+      - 400g rye flour
+      - 200g wheat flour
+      - 40g vital wheat gluten
+      - 4g salt
+
+  - name: Mix wet
+    ingredients:
+      - 600g warm water
+      - 40g honey
+      - all of the sponge
+
+  - name: Combine and shape
+    ingredients:
+      - walnuts to taste
+      - frozen cranberries to taste
+    time: rise overnight
+    note: >-
+      Combine wet and dry, mix in walnuts. Spread a layer of the mix in a
+      well-greased loaf pan, strategically place frozen cranberries in the
+      spots you want them, then cover with another layer. Cover with plastic
+      film and let rise overnight.
+
+  - name: Bake
+    time: 360F, ~40m
+    note: Bake in the morning until internal temperature reaches 190-200F
