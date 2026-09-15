@@ -1,6 +1,8 @@
 # recipes
 
-A collection of recipes in YAML format, designed for use with [ByGrams](https://github.com/walnutgeek/bygrams).
+A collection of recipes in YAML format, designed for use with [ByGrams](https://github.com/walnutgeek/bygrams) — an Android recipe viewer available on [Google Play](https://play.google.com/store/apps/details?id=com.walnutgeek.bygrams).
+
+To use these recipes in the app, point ByGrams at `walnutgeek/recipes` (or fork this repo and point it at your own).
 
 ## Format
 
