@@ -1,0 +1,51 @@
+name: Duck Bone Broth Ramen
+description: Ramen in a rich broth made from leftover roast duck bones
+src:
+  - name: Betty Liu
+    url: https://bettysliu.com/2015/04/29/duck-bone-broth-ramen/
+tags:
+  - Soup
+  - Noodles
+  - Duck
+  - Leftovers
+actions:
+  - name: Blanch bones
+    ingredients:
+      - bones from 1 roasted duck
+    note: Cover with hot water, bring to a boil, then immediately drain and discard the water to cleanse the bones. If using fresh bones, roast 1 hour at 350°F first.
+  - name: Simmer broth
+    ingredients:
+      - 2 carrots, roughly chopped
+      - 1/2 onion, roughly chopped
+      - 1 tsp whole peppercorns
+      - 2 whole star anise
+      - handful shiitake mushrooms
+      - 1 whole head garlic
+      - water to cover
+    time: 2-3h
+    note: Return bones to pot with vegetables and spices, cover with water, bring to a boil, then simmer covered.
+  - name: Strain and reduce
+    ingredients:
+      - 1 tbsp dashi powder
+    note: Strain stock, return to pot, add dashi powder. Bring to a boil and reduce uncovered to desired broth amount.
+  - name: Season
+    ingredients:
+      - 23g (1.5 tbsp) soy sauce
+      - 15g (1 tbsp) mirin
+      - 12g (1 tbsp) sugar
+      - dash white pepper
+      - 1 whole star anise
+      - 2 slices fresh ginger
+      - salt and pepper to taste
+    note: Adjust seasonings to taste and bring to a boil.
+  - name: Cook noodles
+    ingredients:
+      - 2 packs dry ramen noodles
+    note: Cook until just done but still slightly firm.
+  - name: Top
+    ingredients:
+      - cooked shiitake mushrooms
+      - scallions, sliced
+      - leftover duck meat
+      - soft boiled eggs
+    note: All toppings optional.
